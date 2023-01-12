@@ -1,0 +1,42 @@
+user request: file test1.bmp 4/7/2022 11:06:46 PM
+response: 100% of file test1.bmp was constructed with the cached data
+user request: file test1.bmp 4/7/2022 11:06:47 PM
+response: 100% of file test1.bmp was constructed with the cached data
+user request: file test1.bmp 4/7/2022 11:06:47 PM
+response: 100% of file test1.bmp was constructed with the cached data
+user request: file test1.bmp 4/7/2022 11:06:47 PM
+response: 100% of file test1.bmp was constructed with the cached data
+user request: file test1.bmp 4/10/2022 8:08:37 PM
+response: 100% of file test1.bmp was constructed with the cached data
+user request: file test2.bmp 4/10/2022 8:08:41 PM
+response: 100% of file test2.bmp was constructed with the cached data
+user request: file test3.webp 4/10/2022 8:08:43 PM
+response: 100% of file test3.webp was constructed with the cached data
+user request: file test3.webp 4/10/2022 8:08:43 PM
+response: 100% of file test3.webp was constructed with the cached data
+user request: file test1.bmp 4/10/2022 8:16:42 PM
+response: 100% of file test1.bmp was constructed with the cached data
+user request: file test3.webp 4/10/2022 8:23:27 PM
+response: 100% of file test3.webp was constructed with the cached data
+user request: file test1.bmp 4/10/2022 9:21:05 PM
+response: 0% of file test1.bmp was constructed with the cached data
+user request: file test1.bmp 4/10/2022 9:22:23 PM
+response: 0% of file test1.bmp was constructed with the cached data
+user request: file test1.bmp 4/10/2022 10:07:54 PM
+response: 0% of file test1.bmp was constructed with the cached data
+user request: file test1.bmp 4/10/2022 10:08:04 PM
+response: 100% of file test1.bmp was constructed with the cached data
+user request: file test1.bmp 4/10/2022 10:08:58 PM
+response: 0% of file test1.bmp was constructed with the cached data
+user request: file test2.bmp 4/10/2022 10:09:34 PM
+response: 0% of file test2.bmp was constructed with the cached data
+user request: file test1.bmp 4/10/2022 10:09:54 PM
+response: 0% of file test1.bmp was constructed with the cached data
+user request: file test1.bmp 4/10/2022 10:11:38 PM
+response: 0% of file test1.bmp was constructed with the cached data
+user request: file test1.bmp 4/10/2022 10:12:59 PM
+response: 0% of file test1.bmp was constructed with the cached data
+user request: file test1.bmp 4/10/2022 10:13:55 PM
+response: 0% of file test1.bmp was constructed with the cached data
+user request: file test2.bmp 4/10/2022 10:14:06 PM
+response: 99.73981% of file test2.bmp was constructed with the cached data

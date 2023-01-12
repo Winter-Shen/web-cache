@@ -1,0 +1,11 @@
+C:\Users\Wentao Shen\Documents\UoA\711\A1_Project\CDN\SocketUtils\bin\Release\net5.0\SocketUtils.deps.json
+C:\Users\Wentao Shen\Documents\UoA\711\A1_Project\CDN\SocketUtils\bin\Release\net5.0\SocketUtils.dll
+C:\Users\Wentao Shen\Documents\UoA\711\A1_Project\CDN\SocketUtils\bin\Release\net5.0\ref\SocketUtils.dll
+C:\Users\Wentao Shen\Documents\UoA\711\A1_Project\CDN\SocketUtils\bin\Release\net5.0\SocketUtils.pdb
+C:\Users\Wentao Shen\Documents\UoA\711\A1_Project\CDN\SocketUtils\obj\Release\net5.0\SocketUtils.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wentao Shen\Documents\UoA\711\A1_Project\CDN\SocketUtils\obj\Release\net5.0\SocketUtils.AssemblyInfoInputs.cache
+C:\Users\Wentao Shen\Documents\UoA\711\A1_Project\CDN\SocketUtils\obj\Release\net5.0\SocketUtils.AssemblyInfo.cs
+C:\Users\Wentao Shen\Documents\UoA\711\A1_Project\CDN\SocketUtils\obj\Release\net5.0\SocketUtils.csproj.CoreCompileInputs.cache
+C:\Users\Wentao Shen\Documents\UoA\711\A1_Project\CDN\SocketUtils\obj\Release\net5.0\SocketUtils.dll
+C:\Users\Wentao Shen\Documents\UoA\711\A1_Project\CDN\SocketUtils\obj\Release\net5.0\ref\SocketUtils.dll
+C:\Users\Wentao Shen\Documents\UoA\711\A1_Project\CDN\SocketUtils\obj\Release\net5.0\SocketUtils.pdb
